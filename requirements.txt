@@ -1,0 +1,5 @@
+pandas>=2.0
+requests>=2.31
+geopandas>=0.14
+shapely>=2.0
+jupyterlab>=4.0
